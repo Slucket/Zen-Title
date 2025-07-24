@@ -1,6 +1,6 @@
 ![Banner image](banner.png)
 # Zen Title
-Small Bedrock resource pack that makes Minecraft title look more minimalistic by filling its bottom with a black color.
+Small Bedrock resource pack that makes Minecraft title look more minimalistic by filling its bottom partwith a black color.
 
 ## Screenshots
 ![In-game appearnce](preview.png)
